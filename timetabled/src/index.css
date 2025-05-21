@@ -1,4 +1,4 @@
-dody{
+body{
   margin: 0;
   display: flex;
   place-items: center;
@@ -9,12 +9,19 @@ th {
   width: 120px;
   padding-top: 25px;
   padding-bottom: 30px;
+  padding: 20px;
+  
 
 }
 td{
   padding: 5px;
-
+  
 }
 .time {
   height: 40px;
+}
+
+.calendar table {
+  border-collapse: collapse;
+  margin: auto;
 }
