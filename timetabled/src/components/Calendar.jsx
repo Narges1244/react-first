@@ -22,12 +22,15 @@ const Calendar = () => {
                             <td className ="time">9am</td>
                         
                             <Event event='👨‍💻practice react ' color = 'blue'/>
+                            <Event event='💻 practice coding ' color = 'green' location= 'witth freind'/>
+
+
                             <td></td>
+                            <Event event='💻 practice coding ' color = 'green' location= 'witth freind'/>
+
                             <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <Event event='💻 practice coding ' color = 'green' location= 'witth freind'/>
+
                             
                         </tr>
                         <tr>
@@ -45,9 +48,13 @@ const Calendar = () => {
                         <tr>
                             <td className =" time">11am</td>
                             <td></td>
+                            <Event event='🛠️🏗️ working on project ' color = 'pink' location = 'office'/>
+                
+
+
                             <td></td>
-                            <td></td>
-                            <td></td>
+                            <Event event='🛠️🏗️ working on project ' color = 'pink' location = 'office'/>
+
                             <td></td>
                             <td></td>
                             <td></td>
@@ -81,7 +88,8 @@ const Calendar = () => {
                         <tr>
                             <td className =" time">2pm</td>
                             <td></td>
-                            <td></td>
+                            <Event event='👨‍💻practice react ' color = 'blue'/>
+
                             <td></td>
                             <td></td>
                             <td></td>
@@ -105,7 +113,8 @@ const Calendar = () => {
                         <tr>
                             <td className =" time">4pm</td>
                             <td></td>
-                            <td></td>
+                            <Event event=' 👩🏻‍🏫Study ' color = 'yellow'/>
+
                             <td></td>
                             <td></td>
                             <td></td>
