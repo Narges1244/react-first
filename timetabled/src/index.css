@@ -25,3 +25,37 @@ td{
   border-collapse: collapse;
   margin: auto;
 }
+.Event {
+  
+  padding: 8px;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: inline-block; /* or block, depending on layout */
+  max-width: 100%;
+}
+
+h6 {
+  line-height: 10px;
+  align-content: center;
+}
+h5 {
+  line-height: 15px;
+  align-content: center;
+}
+
+
+.pink {
+  background: pink;
+}
+
+.blue {
+  background: rgb(190, 219, 229);
+}
+
+.green {
+  background: rgb(190, 229, 219); 
+}

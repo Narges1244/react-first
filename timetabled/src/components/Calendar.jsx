@@ -19,9 +19,9 @@ const Calendar = () => {
                 </thead>
                       <tbody>
                         <tr>
-                            <td className =" time">9am</td>
+                            <td className ="time">9am</td>
                         
-                            <Event/>
+                            <Event event='👨‍💻practice react ' color = 'blue'/>
                             <td></td>
                             <td></td>
                             <td></td>
